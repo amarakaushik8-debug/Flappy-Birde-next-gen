@@ -15,4 +15,6 @@ Pygame is used to handle graphics rendering, sound effects, and keyboard
 events. The modular design of the program makes it easy to understand and
 modify. The overall design ensures smooth gameplay and user interaction
 while maintaining simplicity and efficiency.
+<img width="606" height="205" alt="image" src="https://github.com/user-attachments/assets/2e000cd4-14f0-4483-b93d-ef441540ee4a" />
+
 
